@@ -12,4 +12,4 @@ Nazwa repozytorium: pd5354-CONT-6
 - Skrypt reverse_complement.py
 - Plik output_cmd.txt, który zawiera wynik uruchomienia kontenera bez podania argumentu.
 - Plik output_seq.txt, który zawiera wynik uruchomienia kontenera, przekazując sekwencję DNA GCGCATATGCTCAGT jako argument.
-- Katalog Images, w którym znajduje się plik images.txt, który zawiera wynik komendy docker images biopython-docker
+- Katalog Images, w którym znajduje się plik images.txt, który zawiera wynik komendy docker images biopython-docker oraz zrzut ekranu tego polecenia.
